@@ -1,0 +1,6 @@
+services\PracticeServices.class
+access\DBAccess.class
+entity\ServiceResult.class
+entity\UserInfo.class
+services\MyServices.class
+entity\AreaInfo.class
